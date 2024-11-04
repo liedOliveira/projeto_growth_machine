@@ -47,3 +47,15 @@ Para este projeto, é necessário instalar a library:
 ```
 pip install robotframework-faker
 ```
+
+# Execução dos testes
+## Execução MANUAL dos testes
+Para executar manualmente os testes com o projeto de forma local, execute o comando:
+```
+robot -d ./logs/ tests/
+```
+## Execução Continuous Testing (CT)
+Este projeto possui a implementação de CT através de CI/CD.
+Para executar os testes sem precisar ter o clone do projeto, acesse a página do repositório:
+[Repositório](https://github.com/liedOliveira/projeto_growth_machine).
+Vá até a sessão "Actions", depois clique em "E2E Tests", "Run workflow" e selecione a opção "Run workflow".
