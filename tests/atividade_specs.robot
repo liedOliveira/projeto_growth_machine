@@ -4,7 +4,6 @@ Documentation    Ceários de teste de cadastro de atividades
 Resource    ../resources/base.resource
 
 Test Setup       Start session
-Test Teardown    Take Screenshot
 
 *** Test Cases ***
 

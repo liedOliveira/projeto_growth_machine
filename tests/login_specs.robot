@@ -4,7 +4,6 @@ Documentation    Cenários de teste de login
 Resource    ../resources/base.resource
 
 Test Setup    Start session
-Test Teardown    Take Screenshot
 
 *** Test Cases ***
 
