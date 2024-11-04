@@ -1,4 +1,4 @@
-# projeto_growth_machine
+# Projeto Growth Machine
 O projeto de automação compreende os níveis de serviço UI (WEB).
 Para o correto funcionamento do projeto, é necessário que os requisitos mínimos de instalação sejam executados:
 
