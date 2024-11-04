@@ -1,7 +1,6 @@
 # projeto_growth_machine
-O projeto de automação Fiibo compreende os níveis de serviço (API) e UI (web e mobile).
-Ambos os níveis de teste utilizam conexão com banco de dados para eventuais consultas e manipulações.
-Para o correto funcionamento do projeto em qualquer nível, é necessário que os requisitos mínimos de instalação sejam executados:
+O projeto de automação compreende os níveis de serviço UI (WEB).
+Para o correto funcionamento do projeto, é necessário que os requisitos mínimos de instalação sejam executados:
 
 ## Python
 Instalar o [Python](https://www.python.org/downloads/), pois é um pré-requisito para a execução do Robot Framework.
