@@ -40,9 +40,10 @@ Consulte as keywords da [Library Browser](https://marketsquare.github.io/robotfr
 Execute o comando abaixo no terminal do SO (modo administrador):
 ```
 rfbrowser init
-
+```
 ## Library Faker
 Para este projeto, é necessário instalar a library:
 - Faker Library (gera dados dinâmicos e ficticios para os testes)
 ```
 pip install robotframework-faker
+```
