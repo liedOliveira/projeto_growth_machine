@@ -50,7 +50,10 @@ pip install robotframework-faker
 
 # Execução dos testes
 ## Execução MANUAL dos testes
-Para executar manualmente os testes com o projeto de forma local, execute o comando:
+A execução do teste está configurada para executar no formato headless (interface gráfica do navegador não é exibida).
+Caso queira acomaphar a execução do teste visualizando a interface gráfica do navegador, mude o valor da variável ${IS_HEADLESS} no arquivo 
+"base.resource" para False.
+Para executar manualmente os testes com o projeto de forma local, execute o seguinte comando no terminal:
 ```
 robot -d ./logs/ tests/
 ```

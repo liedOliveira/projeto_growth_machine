@@ -56,7 +56,7 @@ Criar modelo de atividade do tipo LIGAÇÃO
     Salvar atividade
     Exibir tipo e nome da atividade     Ligação    ${nome_atividade}
     Abrir menu dropdown de opções    ${nome_atividade}
-    Excluir atividade criada    E-mail    ${nome_atividade}
+    Excluir atividade criada    Ligação    ${nome_atividade}
 
 Criar modelo de atividade do tipo LINKEDIN
     [Documentation]
